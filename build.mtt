@@ -1,0 +1,9 @@
+~? meta 1.0;
+~! build-project 1.1 "http://bp.com/s/";
+~! binary (= o b);
+
+~- bin ———;
+file = "bin.exe";
+
+~- depens ———;
+std { uri = "https://yyyy" };
